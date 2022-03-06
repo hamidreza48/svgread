@@ -91,7 +91,7 @@ def maxx(path_strings):
             max  = np.max(points2)
   return max
 
-# files = os.listdir("/content/gdrive/MyDrive/svg/")
-# for file in files:  
-#     svgtoimg('/content/gdrive/MyDrive/svg/'+file) 
-f = svgtoimg('/content/gdrive/MyDrive/svg/flamingo-svgrepo-com (1).svg', 1)   
+# # files = os.listdir("/content/gdrive/MyDrive/svg/")
+# # for file in files:  
+# #     svgtoimg('/content/gdrive/MyDrive/svg/'+file) 
+# f = svgtoimg('/content/gdrive/MyDrive/svg/flamingo-svgrepo-com (1).svg', 1)   
