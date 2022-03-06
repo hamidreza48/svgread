@@ -4,8 +4,8 @@ this is an incomplete work.
 input and output example: 
 input:
 
-![fish-svgrepo-com (1)](https://user-images.githubusercontent.com/98440635/156931975-798e7d15-4b62-4136-9c7a-a7983857221b.svg)
+![flamingo-svgrepo-com (1)](https://user-images.githubusercontent.com/98440635/156932045-5093d556-44d7-493d-9f9c-00831d6f75cc.svg)
 
-extract paths and displaying by cv2:
+Then extract paths and displaying output by cv2:
 
 ![flamingo](https://user-images.githubusercontent.com/98440635/156931804-4613017f-727d-4ed6-9708-50786a25870a.png)
